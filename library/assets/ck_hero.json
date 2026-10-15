@@ -1,0 +1,61 @@
+{
+ "cell": 10.447368421052632,
+ "sprites": [
+  {
+   "file": "ck_hero_0.png",
+   "w": 20,
+   "h": 38,
+   "headX": 10.5,
+   "headTop": 0
+  },
+  {
+   "file": "ck_hero_1.png",
+   "w": 24,
+   "h": 38,
+   "headX": 14.5,
+   "headTop": 0
+  },
+  {
+   "file": "ck_hero_2.png",
+   "w": 30,
+   "h": 38,
+   "headX": 13.5,
+   "headTop": 8
+  },
+  {
+   "file": "ck_hero_3.png",
+   "w": 28,
+   "h": 38,
+   "headX": 11.5,
+   "headTop": 9
+  },
+  {
+   "file": "ck_hero_4.png",
+   "w": 22,
+   "h": 38,
+   "headX": 12.5,
+   "headTop": 12
+  },
+  {
+   "file": "ck_hero_5.png",
+   "w": 28,
+   "h": 38,
+   "headX": 13.5,
+   "headTop": 1
+  },
+  {
+   "file": "ck_hero_6.png",
+   "w": 26,
+   "h": 38,
+   "headX": 14.0,
+   "headTop": 0
+  },
+  {
+   "file": "ck_hero_7.png",
+   "w": 25,
+   "h": 38,
+   "headX": 13.0,
+   "headTop": 0
+  }
+ ]
+}

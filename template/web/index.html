@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>pixel-knowledge</title>
+<style>
+  @font-face { font-family: Ark; src: url(fonts/fusion12.otf); }  /* Fusion Pixel = Ark 字形 + 补全缺字（原 ark12.otf 缺「读钱感经」等 44 字） */
+  @font-face { font-family: ArkTW; src: url(fonts/fusion12.otf); }   /* 旧代码里的 ArkTW 也指向 Fusion Pixel */
+  html, body { margin: 0; background: #0b0d12; height: 100%; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; font: 13px system-ui; color: #9aa; }
+  canvas { width: min(96vw, calc(85vh * 16 / 9)); aspect-ratio: 16/9; background: #000; }
+  .bar { display: flex; gap: 10px; align-items: center; width: min(96vw, calc(85vh * 16 / 9)); }
+  input[type=range] { flex: 1; }
+  button { background: #222831; color: #dde; border: 1px solid #39414d; border-radius: 6px; padding: 4px 12px; cursor: pointer; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<div class="bar"><button id="play">暂停</button><input id="seek" type="range" min="0" max="600" step="0.01" value="0"><span id="tc">0.00s</span></div>
+<script src="project.config.js"></script>
+<script src="core/core.js"></script>
+<script src="core/nolyr.js"></script>
+<script src="episode.js"></script>
+<script src="narration.js"></script>
+<script src="core/ui.js"></script>
+<script src="core/pklib.js"></script>
+<script src="scenes/ep.js"></script>
+<script src="project.timeline.js"></script>
+<script src="boot.js"></script>
+<script>document.getElementById('seek').max = DUR;</script>
+</body>
+</html>

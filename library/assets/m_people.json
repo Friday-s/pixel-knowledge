@@ -1,0 +1,33 @@
+{
+ "cell": 14.289473684210526,
+ "sprites": [
+  {
+   "file": "m_people_0.png",
+   "w": 30,
+   "h": 38,
+   "headX": 14.0,
+   "headTop": 3
+  },
+  {
+   "file": "m_people_1.png",
+   "w": 31,
+   "h": 38,
+   "headX": 21.0,
+   "headTop": 3
+  },
+  {
+   "file": "m_people_2.png",
+   "w": 35,
+   "h": 38,
+   "headX": 21.0,
+   "headTop": 0
+  },
+  {
+   "file": "m_people_3.png",
+   "w": 38,
+   "h": 38,
+   "headX": 27.5,
+   "headTop": 11
+  }
+ ]
+}

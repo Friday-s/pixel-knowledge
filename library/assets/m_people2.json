@@ -1,0 +1,49 @@
+{
+ "cell": 15.157894736842104,
+ "sprites": [
+  {
+   "file": "m_people2_0.png",
+   "w": 22,
+   "h": 38,
+   "headX": 9.0,
+   "headTop": 1,
+   "stickTop": [
+    10,
+    7
+   ]
+  },
+  {
+   "file": "m_people2_1.png",
+   "w": 35,
+   "h": 38,
+   "headX": 25.0,
+   "headTop": 10,
+   "stickTop": [
+    19,
+    15
+   ]
+  },
+  {
+   "file": "m_people2_2.png",
+   "w": 31,
+   "h": 38,
+   "headX": 18.5,
+   "headTop": 0,
+   "stickTop": [
+    20,
+    4
+   ]
+  },
+  {
+   "file": "m_people2_3.png",
+   "w": 38,
+   "h": 38,
+   "headX": 22.5,
+   "headTop": 4,
+   "stickTop": [
+    21,
+    18
+   ]
+  }
+ ]
+}

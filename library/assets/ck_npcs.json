@@ -1,0 +1,75 @@
+{
+ "cell": 12.657894736842104,
+ "sprites": [
+  {
+   "file": "ck_npcs_0.png",
+   "w": 15,
+   "h": 38,
+   "headX": 7.0,
+   "headTop": 3
+  },
+  {
+   "file": "ck_npcs_1.png",
+   "w": 17,
+   "h": 38,
+   "headX": 8.5,
+   "headTop": 0
+  },
+  {
+   "file": "ck_npcs_2.png",
+   "w": 17,
+   "h": 38,
+   "headX": 8.5,
+   "headTop": 1
+  },
+  {
+   "file": "ck_npcs_3.png",
+   "w": 17,
+   "h": 38,
+   "headX": 8.0,
+   "headTop": 2
+  },
+  {
+   "file": "ck_npcs_4.png",
+   "w": 18,
+   "h": 38,
+   "headX": 9.0,
+   "headTop": 2
+  },
+  {
+   "file": "ck_npcs_5.png",
+   "w": 17,
+   "h": 38,
+   "headX": 8.5,
+   "headTop": 3
+  },
+  {
+   "file": "ck_npcs_6.png",
+   "w": 18,
+   "h": 38,
+   "headX": 9.5,
+   "headTop": 0
+  },
+  {
+   "file": "ck_npcs_7.png",
+   "w": 18,
+   "h": 38,
+   "headX": 9.0,
+   "headTop": 3
+  },
+  {
+   "file": "ck_npcs_8.png",
+   "w": 18,
+   "h": 38,
+   "headX": 9.0,
+   "headTop": 3
+  },
+  {
+   "file": "ck_npcs_9.png",
+   "w": 17,
+   "h": 38,
+   "headX": 8.0,
+   "headTop": 9
+  }
+ ]
+}

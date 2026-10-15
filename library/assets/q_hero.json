@@ -1,0 +1,47 @@
+{
+ "cell": 10.736842105263158,
+ "sprites": [
+  {
+   "file": "q_hero_0.png",
+   "w": 23,
+   "h": 38,
+   "headX": 11.5,
+   "headTop": 0
+  },
+  {
+   "file": "q_hero_1.png",
+   "w": 30,
+   "h": 38,
+   "headX": 18.0,
+   "headTop": 0
+  },
+  {
+   "file": "q_hero_2.png",
+   "w": 39,
+   "h": 38,
+   "headX": 23.5,
+   "headTop": 10
+  },
+  {
+   "file": "q_hero_3.png",
+   "w": 35,
+   "h": 38,
+   "headX": 18.5,
+   "headTop": 10
+  },
+  {
+   "file": "q_hero_4.png",
+   "w": 29,
+   "h": 38,
+   "headX": 18.0,
+   "headTop": 0
+  },
+  {
+   "file": "q_hero_5.png",
+   "w": 32,
+   "h": 38,
+   "headX": 21.0,
+   "headTop": 0
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "cell": 19.35,
+ "sprites": [
+  {
+   "file": "m_props_0.png",
+   "w": 14,
+   "h": 22,
+   "headX": 4.5,
+   "headTop": 6
+  },
+  {
+   "file": "m_props_1.png",
+   "w": 24,
+   "h": 22,
+   "headX": 13.5,
+   "headTop": 1
+  },
+  {
+   "file": "m_props_2.png",
+   "w": 20,
+   "h": 22,
+   "headX": 13.0,
+   "headTop": 2
+  },
+  {
+   "file": "m_props_3.png",
+   "w": 25,
+   "h": 22,
+   "headX": 17.0,
+   "headTop": 2
+  },
+  {
+   "file": "m_props_4.png",
+   "w": 19,
+   "h": 22,
+   "headX": 13.0,
+   "headTop": 2
+  }
+ ]
+}

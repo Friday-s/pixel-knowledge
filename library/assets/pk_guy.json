@@ -1,0 +1,33 @@
+{
+ "cell": 14.973684210526315,
+ "sprites": [
+  {
+   "file": "pk_guy_0.png",
+   "w": 23,
+   "h": 38,
+   "headX": 8.5,
+   "headTop": 0
+  },
+  {
+   "file": "pk_guy_1.png",
+   "w": 35,
+   "h": 38,
+   "headX": 20.5,
+   "headTop": 10
+  },
+  {
+   "file": "pk_guy_2.png",
+   "w": 32,
+   "h": 38,
+   "headX": 21.5,
+   "headTop": 0
+  },
+  {
+   "file": "pk_guy_3.png",
+   "w": 43,
+   "h": 38,
+   "headX": 29.5,
+   "headTop": 1
+  }
+ ]
+}

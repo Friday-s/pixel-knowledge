@@ -1,0 +1,54 @@
+{
+ "cell": 15.944444444444445,
+ "sprites": [
+  {
+   "file": "q_props_0.png",
+   "w": 17,
+   "h": 22,
+   "headX": 8.0,
+   "headTop": 6
+  },
+  {
+   "file": "q_props_1.png",
+   "w": 20,
+   "h": 22,
+   "headX": 9.5,
+   "headTop": 6
+  },
+  {
+   "file": "q_props_2.png",
+   "w": 14,
+   "h": 22,
+   "headX": 6.5,
+   "headTop": 4
+  },
+  {
+   "file": "q_props_3.png",
+   "w": 12,
+   "h": 22,
+   "headX": 6.0,
+   "headTop": 4
+  },
+  {
+   "file": "q_props_4.png",
+   "w": 11,
+   "h": 22,
+   "headX": 5.0,
+   "headTop": 10
+  },
+  {
+   "file": "q_props_5.png",
+   "w": 18,
+   "h": 22,
+   "headX": 8.5,
+   "headTop": 6
+  },
+  {
+   "file": "q_props_6.png",
+   "w": 12,
+   "h": 22,
+   "headX": 5.5,
+   "headTop": 4
+  }
+ ]
+}

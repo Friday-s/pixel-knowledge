@@ -1,0 +1,33 @@
+{
+ "cell": 7.25,
+ "sprites": [
+  {
+   "file": "pk_clouds_0.png",
+   "w": 93,
+   "h": 52,
+   "headX": 45.5,
+   "headTop": 3
+  },
+  {
+   "file": "pk_clouds_1.png",
+   "w": 72,
+   "h": 52,
+   "headX": 34.0,
+   "headTop": 16
+  },
+  {
+   "file": "pk_clouds_2.png",
+   "w": 58,
+   "h": 52,
+   "headX": 27.3,
+   "headTop": 23
+  },
+  {
+   "file": "pk_clouds_3.png",
+   "w": 41,
+   "h": 52,
+   "headX": 20.5,
+   "headTop": 31
+  }
+ ]
+}
