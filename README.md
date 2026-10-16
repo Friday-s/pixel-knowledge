@@ -12,8 +12,8 @@
 可选：[Codex CLI](https://github.com/openai/codex)（`npm i -g @openai/codex` 后 `codex login`，需要 ChatGPT 账号）——用来为每本书生成新的场景和角色；没有也能做，只用自带素材库。
 
 ```bash
-# 1. 放进 Claude Code 的 skills 目录
-git clone <本仓库地址> ~/.claude/skills/pixel-knowledge
+# 1. 放进 Claude Code 的 skills 目录（国内访问 GitHub 慢就用 Gitee 镜像，见下）
+git clone https://github.com/Friday-s/pixel-knowledge.git ~/.claude/skills/pixel-knowledge
 # 2. 装依赖（建 skill 自己的 Python 环境、下载无头 Chromium、生成音效库，约 2–5 分钟）
 python3 ~/.claude/skills/pixel-knowledge/scripts/pk.py setup
 # 3. 检查
@@ -36,4 +36,6 @@ ffmpeg 没装的话：macOS `brew install ffmpeg`，Windows `winget install ffmp
 
 ## 授权
 
-第三方内容见 [THIRD_PARTY.md](THIRD_PARTY.md)。字体 Fusion Pixel 为 SIL OFL 1.1。配音默认用 edge-tts（微软在线朗读服务），书封运行时从豆瓣获取，均不随包分发。
+代码和素材库（`library/` 里的像素角色、场景、道具）用 [MIT](LICENSE) 授权，可以随便用、改、商用。字体 Fusion Pixel 为 SIL OFL 1.1。其他第三方内容见 [THIRD_PARTY.md](THIRD_PARTY.md)。
+
+配音默认用 edge-tts，它调用的是微软 Edge 的在线朗读服务，合成语音能不能商用以微软的条款为准；要商用或接广告，建议换成自己录的或有商用授权的配音。书封运行时从豆瓣获取，不随包分发。
