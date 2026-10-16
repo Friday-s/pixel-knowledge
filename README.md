@@ -12,7 +12,7 @@
 可选：[Codex CLI](https://github.com/openai/codex)（`npm i -g @openai/codex` 后 `codex login`，需要 ChatGPT 账号）——用来为每本书生成新的场景和角色；没有也能做，只用自带素材库。
 
 ```bash
-# 1. 放进 Claude Code 的 skills 目录（国内访问 GitHub 慢就用 Gitee 镜像，见下）
+# 1. 放进 Claude Code 的 skills 目录
 git clone https://github.com/Friday-s/pixel-knowledge.git ~/.claude/skills/pixel-knowledge
 # 2. 装依赖（建 skill 自己的 Python 环境、下载无头 Chromium、生成音效库，约 2–5 分钟）
 python3 ~/.claude/skills/pixel-knowledge/scripts/pk.py setup
